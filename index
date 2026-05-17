@@ -58,7 +58,7 @@
     </nav>
 
     <header class="relative h-[60vh] min-h-[450px] flex items-end">
-        <img src="5358front.webp" 
+        <img src="5358.webp" 
              alt="Property Image" 
              class="absolute inset-0 w-full h-full object-cover">
         <div class="absolute inset-0 hero-overlay"></div>
